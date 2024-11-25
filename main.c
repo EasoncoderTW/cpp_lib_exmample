@@ -4,5 +4,7 @@
 int main(){
     int c = add(1,2);
     printf("ans = %d\n", c);
+    c = mul(1,2);
+    printf("ans = %d\n", c);
     return 0;
 }
